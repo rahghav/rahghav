@@ -268,8 +268,8 @@ professional_highlights:
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Raghu&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Raghav&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-**⭐ From [Raghu](https://github.com/rahghav) with passion for building amazing systems! ⭐**
+**⭐ From [Raghav](https://github.com/rahghav) with passion for building amazing systems! ⭐**
 
 </div>
