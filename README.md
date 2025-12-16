@@ -217,20 +217,6 @@ professional_highlights:
 
 ---
 
-## 🎓 Professional Focus Areas
-
-<div align="center">
-
-| **Backend Development** | **Cloud & Infrastructure** | **Data & Streaming** |
-|:---:|:---:|:---:|
-| Java/Kotlin Enterprise Applications | AWS/Azure/GCP Cloud Architecture | Apache Kafka Event Streaming |
-| Spring Boot Microservices | Kubernetes Container Orchestration | PostgreSQL Database Design |
-| RESTful APIs & gRPC Services | Docker Containerization | Real-time Data Processing |
-
-</div>
-
----
-
 ## 💻 Primary Languages & Technologies
 
 <div align="center">
