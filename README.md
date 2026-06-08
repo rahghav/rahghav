@@ -8,33 +8,33 @@
 ║    ██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║ ╚████╔╝                           ║
 ║    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝                            ║
 ║                                                                                  ║
-║    > Senior Software Engineer @ Tada Mobility                                   ║
-║    > Java Backend & Full-Stack Developer                                        ║
-║    > 7+ Years Building Enterprise Systems                                       ║
-║    > Spring Boot | Microservices | Cloud Architecture                          ║
+║    > Senior Backend Engineer @ PayPay Corporation                               ║
+║    > Data Engineering | Rust | Java/Kotlin                                      ║
+║    > 8+ Years | Tokyo, Japan                                                    ║
+║    > AWS | Kafka | OpenSearch | LLM Integration                                ║
 ║                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=2000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=60&lines=%24+whoami;raghu@enterprise:~%24+cat+experience.txt;7%2B+years+building+scalable+systems;15k%2B+requests%2Fsecond+optimized;%24+./deploy_microservices.sh;%5BSUCCESS%5D+Enterprise+systems+deployed" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=2000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=60&lines=%24+whoami;raghu@enterprise:~%24+cat+experience.txt;8%2B+years+building+scalable+systems;15k%2B+requests%2Fsecond+optimized;%24+./deploy_microservices.sh;%5BSUCCESS%5D+Enterprise+systems+deployed" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-> **Seasoned Java Backend & Full-Stack Developer** with **7+ years** of expertise in architecting and shipping high-throughput, cloud-native applications. Hands-on with **Java 17/Kotlin, Python, and TypeScript**, designing microservices with **Spring Boot 3, Reactor, gRPC, Kafka, and RabbitMQ**—all containerized on **Kubernetes/EKS** and codified via **Terraform & Helm**.
+> **Senior Backend Engineer** with **8+ years** of expertise in architecting and shipping high-throughput, cloud-native applications. Hands-on with **Rust, Java 17/Kotlin, and Python**, designing microservices with **Spring Boot 3, Reactor, gRPC, Kafka, and RabbitMQ**—all containerized on **Kubernetes/EKS** and codified via **Terraform & Helm**.
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- **Currently Working:** Senior Software Engineer at [Tada Mobility](https://tadatada.com/)
-- **Core Expertise:** Java/Kotlin Backend, Spring Boot Microservices, Cloud-Native Architecture
-- **Experience:** 7+ Years across **Enterprise**, **Fintech**, **EdTech**, **Data Engineering** & **Mobility**
-- **Specializations:** RESTful APIs, Microservices, Event-Driven Systems, Database Design
-- **Tech Stack:** Java 17, Kotlin, Python, Spring Boot, React, AWS/Azure/GCP, PostgreSQL, Kafka
+- **Currently Working:** Senior Backend Engineer at [PayPay Corporation](https://paypay.ne.jp/)
+- **Core Expertise:** Backend Engineering, Data Engineering, Rust, Java/Kotlin, Cloud-Native Architecture
+- **Experience:** 8+ Years across **Enterprise**, **Fintech**, **Data Engineering** & **Mobility**
+- **Specializations:** RESTful APIs, Microservices, Event-Driven Systems, Database Design, LLM Integration
+- **Tech Stack:** Rust, Java 17, Kotlin, Python, Spring Boot, AWS/Azure/GCP, PostgreSQL, Kafka, OpenSearch
 - **Reach me:** [raghavendran.chand@gmail.com](mailto:raghavendran.chand@gmail.com)
-- **Location:** Mysore, Karnataka, India
+- **Location:** Tokyo, Japan
 - **Fun fact:** Built systems handling 15k+ req/s and optimized cloud costs by ₹1.6 Cr/year!
 
 ---
@@ -56,11 +56,11 @@
 
 <div align="center">
 
-| 🏗️ **Backend Architecture** | 📊 **Data Engineering** | ☁️ **Cloud & DevOps** | 🖥️ **Full-Stack** |
+| 🏗️ **Backend Architecture** | 📊 **Data Engineering** | ☁️ **Cloud & DevOps** | 🦀 **Rust & Systems** |
 |:---:|:---:|:---:|:---:|
-| Spring Boot Microservices | ETL/ELT Pipelines | AWS, Azure, GCP | React, TypeScript |
-| RESTful APIs & gRPC | Kafka Streams, Airflow | Kubernetes, Docker | HTML5, CSS3, JavaScript |
-| Database Design & Optimization | Real-time Analytics | CI/CD, Infrastructure as Code | Responsive Web Design |
+| Spring Boot Microservices | ETL/ELT Pipelines | AWS, Azure, GCP | SQL Parsers & Compilers |
+| RESTful APIs & gRPC | Kafka Streams, Airflow | Kubernetes, Docker | High-Performance Systems |
+| Database Design & Optimization | Real-time Analytics | CI/CD, Infrastructure as Code | Low-Latency Services |
 
 </div>
 
@@ -71,6 +71,7 @@
 ### **Languages**
 <div align="center">
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -105,10 +106,13 @@
 <div align="center">
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -121,9 +125,10 @@
 ```yaml
 professional_highlights:
   current_impact:
-    - "Building scalable backend systems serving millions of users"
-    - "Designing high-performance Java/Kotlin microservices architecture"
-    - "Leading full-stack development initiatives across multiple domains"
+    - "Building scalable backend systems at PayPay Corporation"
+    - "Integrated LLM-powered place search reducing failures by 18% in production"
+    - "Built RAG-based support assistant using OpenSearch as vector store"
+    - "Authored Rust SQL parser improving translation throughput at scale"
 
   technical_achievements:
     - "Built NLP search service handling 15k req/s on AWS EKS"
@@ -223,6 +228,7 @@ professional_highlights:
 
 ### Based on Professional Experience & Expertise
 
+![Rust](https://img.shields.io/badge/Rust-Advanced-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Advanced-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Expert-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -252,8 +258,8 @@ professional_highlights:
 <div align="center">
 
 **Open for collaborations, consulting, and interesting conversations about:**
-🔸 Java Backend Development  🔸 Spring Boot & Microservices  🔸 Cloud Architecture Design
-🔸 Data Engineering Solutions  🔸 Full-Stack Development  🔸 Performance Optimization
+🔸 Backend Engineering  🔸 Rust & Systems Programming  🔸 Spring Boot & Microservices
+🔸 Data Engineering Solutions  🔸 LLM Integration & RAG  🔸 Cloud Architecture Design
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghavendran-chandran)
 [![Email](https://img.shields.io/badge/Drop_me_a_line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavendran.chand@gmail.com)
