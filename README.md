@@ -159,11 +159,11 @@ professional_highlights:
 </div>
 
 ### 💻 Language Distribution
+> Includes **all private, public, and organization repositories** — updated every 6 hours
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahghav&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10&count_private=true&hide=html,css&custom_title=Most%20Used%20Languages" width="49%"/>
-<img src="https://raw.githubusercontent.com/rahghav/rahghav/main/metrics.languages.clean.svg" width="49%"/>
+<img src="https://raw.githubusercontent.com/rahghav/rahghav/main/metrics.languages.clean.svg" width="80%"/>
 
 </div>
 
@@ -179,7 +179,7 @@ professional_highlights:
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahghav&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahghav&theme=tokyonight&utcOffset=5.5" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahghav&theme=tokyonight&utcOffset=9" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahghav&theme=tokyonight" width="32%"/>
 
 </div>
@@ -203,9 +203,9 @@ professional_highlights:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rahghav/rahghav/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rahghav/rahghav/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/rahghav/rahghav/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahghav/rahghav/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahghav/rahghav/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rahghav/rahghav/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -274,7 +274,7 @@ professional_highlights:
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Raghav&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rahghav&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 **⭐ From [Raghav](https://github.com/rahghav) with passion for building amazing systems! ⭐**
 
