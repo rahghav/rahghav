@@ -9,30 +9,30 @@
 ║    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝                            ║
 ║                                                                                  ║
 ║    > Senior Backend Engineer @ PayPay Corporation                               ║
-║    > Data Engineering | Rust | Java/Kotlin                                      ║
+║    > Data Engineering | Rust | Java/Kotlin | ML/LLM Systems                    ║
 ║    > 8+ Years | Tokyo, Japan                                                    ║
-║    > AWS | Kafka | OpenSearch | LLM Integration                                ║
+║    > AWS | Kafka | OpenSearch | RAG | LangChain | OpenAI                       ║
 ║                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=2000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=60&lines=%24+whoami;raghu@enterprise:~%24+cat+experience.txt;8%2B+years+building+scalable+systems;15k%2B+requests%2Fsecond+optimized;%24+./deploy_microservices.sh;%5BSUCCESS%5D+Enterprise+systems+deployed" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=2000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=60&lines=%24+whoami;raghu@enterprise:~%24+cat+experience.txt;8%2B+years+building+scalable+systems;15k%2B+requests%2Fsecond+optimized;%24+python+train_model.py+--env+production;%5BSUCCESS%5D+RAG+pipeline+deployed+%7C+latency+%3C100ms;%24+./deploy_microservices.sh;%5BSUCCESS%5D+Enterprise+systems+deployed" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-> **Senior Backend Engineer** with **8+ years** of expertise in architecting and shipping high-throughput, cloud-native applications. Hands-on with **Rust, Java 17/Kotlin, and Python**, designing microservices with **Spring Boot 3, Reactor, gRPC, Kafka, and RabbitMQ**—all containerized on **Kubernetes/EKS** and codified via **Terraform & Helm**.
+> **Senior Backend Engineer** with **8+ years** of expertise in architecting and shipping high-throughput, cloud-native applications. Hands-on with **Rust, Java 17/Kotlin, and Python**, designing microservices with **Spring Boot 3, Reactor, gRPC, Kafka, and RabbitMQ**—all containerized on **Kubernetes/EKS** and codified via **Terraform & Helm**. Increasingly focused on **ML/LLM systems** — building production RAG pipelines, LLM-powered search with **OpenAI & LangChain**, vector databases, and integrating ML inference (scikit-learn, XGBoost, PyTorch) into real-time backend services.
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - **Currently Working:** Senior Backend Engineer at [PayPay Corporation](https://paypay.ne.jp/)
-- **Core Expertise:** Backend Engineering, Data Engineering, Rust, Java/Kotlin, Cloud-Native Architecture
-- **Experience:** 8+ Years across **Enterprise**, **Fintech**, **Data Engineering** & **Mobility**
-- **Specializations:** RESTful APIs, Microservices, Event-Driven Systems, Database Design, LLM Integration
-- **Tech Stack:** Rust, Java 17, Kotlin, Python, Spring Boot, AWS/Azure/GCP, PostgreSQL, Kafka, OpenSearch
+- **Core Expertise:** Backend Engineering, Data Engineering, Rust, Java/Kotlin, Cloud-Native Architecture, ML/LLM Systems
+- **Experience:** 8+ Years across **Enterprise**, **Fintech**, **Data Engineering**, **Mobility** & **ML/AI**
+- **Specializations:** RESTful APIs, Microservices, Event-Driven Systems, Database Design, LLM Integration, RAG Pipelines, ML Inference
+- **Tech Stack:** Rust, Java 17, Kotlin, Python, Spring Boot, AWS/Azure/GCP, PostgreSQL, Kafka, OpenSearch, LangChain, PyTorch, scikit-learn
 - **Reach me:** [raghavendran.chand@gmail.com](mailto:raghavendran.chand@gmail.com)
 - **Location:** Tokyo, Japan
 - **Fun fact:** Built systems handling 15k+ req/s and optimized cloud costs by ₹1.6 Cr/year!
@@ -56,11 +56,11 @@
 
 <div align="center">
 
-| 🏗️ **Backend Architecture** | 📊 **Data Engineering** | ☁️ **Cloud & DevOps** | 🦀 **Rust & Systems** |
-|:---:|:---:|:---:|:---:|
-| Spring Boot Microservices | ETL/ELT Pipelines | AWS, Azure, GCP | SQL Parsers & Compilers |
-| RESTful APIs & gRPC | Kafka Streams, Airflow | Kubernetes, Docker | High-Performance Systems |
-| Database Design & Optimization | Real-time Analytics | CI/CD, Infrastructure as Code | Low-Latency Services |
+| 🏗️ **Backend Architecture** | 📊 **Data Engineering** | ☁️ **Cloud & DevOps** | 🦀 **Rust & Systems** | 🤖 **ML & LLM** |
+|:---:|:---:|:---:|:---:|:---:|
+| Spring Boot Microservices | ETL/ELT Pipelines | AWS, Azure, GCP | SQL Parsers & Compilers | RAG Pipelines |
+| RESTful APIs & gRPC | Kafka Streams, Airflow | Kubernetes, Docker | High-Performance Systems | LangChain & OpenAI API |
+| Database Design & Optimization | Real-time Analytics | CI/CD, Infrastructure as Code | Low-Latency Services | Vector Search & Embeddings |
 
 </div>
 
@@ -87,6 +87,10 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 
@@ -125,10 +129,18 @@
 ```yaml
 professional_highlights:
   current_impact:
-    - "Building scalable backend systems at PayPay Corporation"
-    - "Integrated LLM-powered place search reducing failures by 18% in production"
-    - "Built RAG-based support assistant using OpenSearch as vector store"
+    - "Building scalable backend systems at PayPay Corporation serving 65M+ users"
+    - "Contributed to ML-assisted fraud detection pipeline (XGBoost/SageMaker) at PayPay"
+    - "Architected production RAG pipeline: GPT-4 + OpenSearch k-NN, sub-100ms p99"
+    - "Semantic caching with Redis cut OpenAI API costs ~40%"
     - "Authored Rust SQL parser improving translation throughput at scale"
+
+  ml_achievements:
+    - "End-to-end RAG system: embedding ingestion → hybrid BM25+k-NN → GPT-4 generation"
+    - "XGBoost + Gradient Boosting ensemble on SageMaker — sub-50ms fraud scoring at TPS"
+    - "Integrated scikit-learn Isolation Forest into AT&T ALDB — 35% false-positive reduction"
+    - "Weekly PySpark retraining pipeline on EMR with blue/green model promotion"
+    - "Multilingual vector search across 5M+ location records in 3 languages"
 
   technical_achievements:
     - "Built NLP search service handling 15k req/s on AWS EKS"
@@ -136,9 +148,9 @@ professional_highlights:
     - "Cut cloud spend by 20% (~₹1.6 Cr/yr) using Graviton optimization"
 
   recent_projects:
-    - "Enterprise-grade backend systems with Spring Boot"
+    - "ML Fraud Detection Pipeline: XGBoost + SageMaker + Kafka feature store"
+    - "LLM Place Search with RAG: OpenAI + LangChain + OpenSearch (3× accuracy improvement)"
     - "BigQuery-to-Snowflake SQL Translator (50% migration effort saved)"
-    - "Real-time analytics with Kafka Streams & ClickHouse"
 ```
 
 </div>
@@ -233,6 +245,10 @@ professional_highlights:
 ![Kotlin](https://img.shields.io/badge/Kotlin-Advanced-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Expert-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Proficient-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-Proficient-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-Proficient-189AB4?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
