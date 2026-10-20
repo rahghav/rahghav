@@ -1,6 +1,8 @@
 # Raghavendran Chandran
 
-**Building the plumbing behind enterprise AI at [Japan AI](https://japan-ai.co.jp/)** · Tokyo, Japan
+**Tech Lead at [Japan AI](https://japan-ai.co.jp/)** · Tokyo, Japan
+
+**Building the plumbing behind enterprise AI**
 
 > I make LLM agents fast, reliable, and accounted for, down to the last token.
 
@@ -14,7 +16,7 @@ I'm a backend and platform engineer with 8+ years of experience building high-th
 
 ### Experience
 
-- **Japan AI** (current). I work on the platform and agent infrastructure behind Japan AI's enterprise AI products, including metering, quota and entitlement systems for LLM usage.
+- **Japan AI, Tech Lead** (current). I work on the platform and agent infrastructure behind Japan AI's enterprise AI products, including metering, quota and entitlement systems for LLM usage.
 - **PayPay Corporation**, Senior Backend Engineer. I built backend systems for a payments platform serving 65M+ users, contributed to an ML-assisted fraud detection pipeline (XGBoost on SageMaker), and built a production RAG pipeline with GPT-4 and OpenSearch k-NN at sub-100ms p99.
 - **Earlier roles** spanned enterprise, fintech, data engineering and mobility. Highlights include an NLP search service handling 15k req/s on AWS EKS, a 50% cut in P95 latency, a 20% reduction in cloud spend, and a Rust BigQuery-to-Snowflake SQL translator.
 
